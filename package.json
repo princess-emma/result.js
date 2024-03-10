@@ -1,0 +1,17 @@
+{
+  "name": "@aurora60/result.js",
+  "version": "1.0.1",
+  "description": "Rust-like result.",
+  "main": "/dist/result.js",
+  "types": "/dist/result.d.ts",
+  "files": [
+    "dist",
+    "config.json",
+    "example.js"
+  ],
+  "author": "Nala <nala@hanna.gg>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
