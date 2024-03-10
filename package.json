@@ -9,9 +9,17 @@
     "config.json",
     "example.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nala60/result.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nala60/result.js/issues"
+  },
   "author": "Nala <nala@hanna.gg>",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^20.11.25"
-  }
+  },
+  "homepage": "https://resultjs.hanna.gg"
 }
