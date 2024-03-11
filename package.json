@@ -1,6 +1,6 @@
 {
   "name": "@aurora60/result.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rust-like result.",
   "main": "/dist/result.js",
   "types": "/dist/result.d.ts",
